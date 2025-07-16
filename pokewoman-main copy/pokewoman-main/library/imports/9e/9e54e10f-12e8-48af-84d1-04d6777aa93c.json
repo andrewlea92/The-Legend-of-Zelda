@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dong_boss",
+    "texture": "06749ae6-2d80-4c79-9f81-b4d3f5e959f6",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      596,
+      1081
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      596,
+      1082
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

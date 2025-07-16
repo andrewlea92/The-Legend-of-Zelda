@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ring_2_tex",
+    "texture": "570675d5-32c1-42aa-93f1-516c4ea563ed",
+    "atlas": "",
+    "rect": [
+      12,
+      12,
+      232,
+      232
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

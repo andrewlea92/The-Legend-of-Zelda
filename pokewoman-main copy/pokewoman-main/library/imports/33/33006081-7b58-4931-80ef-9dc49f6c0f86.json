@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.AudioClip",
+  "_name": "loseOneLife",
+  "_objFlags": 0,
+  "_native": ".wav",
+  "duration": 2.238,
+  "loadMode": 0
+}

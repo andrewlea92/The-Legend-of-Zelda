@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Spear",
+    "texture": "c592bcde-83ba-4e0f-b8d2-973eb4417e59",
+    "atlas": "",
+    "rect": [
+      16,
+      98,
+      225,
+      59
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

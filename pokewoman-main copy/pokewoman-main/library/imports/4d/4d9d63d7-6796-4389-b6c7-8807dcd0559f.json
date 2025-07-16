@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Burst_2_tex",
+    "texture": "c9cce2c2-bb26-4dce-9724-e186bf4d758a",
+    "atlas": "",
+    "rect": [
+      31,
+      32,
+      201,
+      209
+    ],
+    "offset": [
+      3.5,
+      -8.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

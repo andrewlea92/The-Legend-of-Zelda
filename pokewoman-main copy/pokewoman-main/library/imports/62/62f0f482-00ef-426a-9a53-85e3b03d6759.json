@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Hit_tex",
+    "texture": "2efd5622-0656-45ee-8012-15c864202c00",
+    "atlas": "",
+    "rect": [
+      7,
+      10,
+      244,
+      227
+    ],
+    "offset": [
+      1,
+      4.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9872bdb1-2876-4477-890a-4e8724873f22",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 578,
+  "height": 327,
+  "platformSettings": {},
+  "subMetas": {
+    "2021-play-pokemon-banner": {
+      "ver": "1.0.6",
+      "uuid": "0bc903f2-fbf0-44c5-a040-cd48ed47e56f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9872bdb1-2876-4477-890a-4e8724873f22",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 578,
+      "height": 327,
+      "rawWidth": 578,
+      "rawHeight": 327,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ring_6_tex",
+    "texture": "cbebbe72-a264-471b-841f-50d70568faae",
+    "atlas": "",
+    "rect": [
+      0,
+      40,
+      512,
+      984
+    ],
+    "offset": [
+      0,
+      -20
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

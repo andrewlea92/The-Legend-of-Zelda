@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lea",
+    "texture": "7ecf2dca-bdd0-487d-b6f7-54c03659846f",
+    "atlas": "",
+    "rect": [
+      197,
+      144,
+      886,
+      934
+    ],
+    "offset": [
+      98.5,
+      -31
+    ],
+    "originalSize": [
+      1083,
+      1160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

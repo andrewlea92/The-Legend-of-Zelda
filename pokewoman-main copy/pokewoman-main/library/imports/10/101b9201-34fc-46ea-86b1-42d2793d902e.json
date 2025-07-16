@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "runaway",
+    "texture": "198e6947-e27b-4930-8c10-8b384698584a",
+    "atlas": "",
+    "rect": [
+      0,
+      8,
+      200,
+      184
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

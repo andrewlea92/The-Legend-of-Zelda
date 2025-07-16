@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Cutter_1_tex",
+    "texture": "55bc441e-0cdd-431f-a7b2-05b255bb6a6b",
+    "atlas": "",
+    "rect": [
+      13,
+      26,
+      104,
+      96
+    ],
+    "offset": [
+      1,
+      -10
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

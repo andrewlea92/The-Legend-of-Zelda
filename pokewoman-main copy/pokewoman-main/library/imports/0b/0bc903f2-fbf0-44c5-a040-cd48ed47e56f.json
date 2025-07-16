@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "2021-play-pokemon-banner",
+    "texture": "9872bdb1-2876-4477-890a-4e8724873f22",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      578,
+      327
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      578,
+      327
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

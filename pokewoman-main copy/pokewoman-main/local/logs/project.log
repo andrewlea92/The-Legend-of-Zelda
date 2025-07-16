@@ -1,0 +1,13 @@
+2023-06-19T18:46:25.652Z - success: protocol editor-framework registered
+2023-06-19T18:46:25.653Z - success: protocol app registered
+2023-06-19T18:46:25.653Z - success: protocol theme registered
+2023-06-19T18:46:25.653Z - success: protocol packages registered
+2023-06-19T18:46:25.664Z - normal: Load ~/.CocosCreator/settings.json
+2023-06-19T18:46:25.683Z - success: protocol uuid registerred
+2023-06-19T18:46:25.683Z - success: protocol db registerred
+2023-06-19T18:46:25.683Z - success: protocol thumbnail registerred
+2023-06-19T18:46:25.735Z - normal: Initializing Asset Database
+2023-06-19T18:46:25.748Z - normal: checking language setting...
+2023-06-19T18:46:25.748Z - normal: Language: zh
+2023-06-19T18:46:25.749Z - success: protocol unpack registerred
+2023-06-19T18:46:25.750Z - success: protocol disable-commonjs registerred

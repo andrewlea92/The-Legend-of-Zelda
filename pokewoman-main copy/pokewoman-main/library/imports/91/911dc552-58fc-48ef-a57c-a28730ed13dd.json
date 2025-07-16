@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "man_4",
+    "texture": "edce0142-1b89-4655-ba6a-266b8af3ab73",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      27,
+      35
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      32,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

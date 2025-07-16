@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Impact_2_tex",
+    "texture": "7569fcc2-7b2d-4b3b-b5ab-9a3ca1cc85c7",
+    "atlas": "",
+    "rect": [
+      36,
+      83,
+      459,
+      671
+    ],
+    "offset": [
+      9.5,
+      93.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

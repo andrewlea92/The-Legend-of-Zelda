@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "IntensiveLine_2_tex",
+    "texture": "5ffb0804-bfbd-429e-8463-c247cd086b73",
+    "atlas": "",
+    "rect": [
+      4,
+      5,
+      251,
+      250
+    ],
+    "offset": [
+      1.5,
+      -2
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

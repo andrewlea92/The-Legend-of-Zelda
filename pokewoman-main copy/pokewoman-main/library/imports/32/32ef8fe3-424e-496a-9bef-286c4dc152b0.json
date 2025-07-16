@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "man2_right",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "9e9be97c-ec6f-4920-9b73-8198a6c664a5"
+            }
+          },
+          {
+            "frame": 0.18333333333333332,
+            "value": {
+              "__uuid__": "d81756b3-2282-4826-80f9-8752c5e84dba"
+            }
+          },
+          {
+            "frame": 0.36666666666666664,
+            "value": {
+              "__uuid__": "4edca1ef-5cd6-438c-b42b-f0f46cb8bfed"
+            }
+          },
+          {
+            "frame": 0.55,
+            "value": {
+              "__uuid__": "9e9be97c-ec6f-4920-9b73-8198a6c664a5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

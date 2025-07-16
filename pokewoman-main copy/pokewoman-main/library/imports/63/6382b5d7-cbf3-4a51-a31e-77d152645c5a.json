@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "u_fd_mountains",
+    "texture": "0e3895cf-8813-41ef-ae66-2bb27c3e2033",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      1136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      1136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

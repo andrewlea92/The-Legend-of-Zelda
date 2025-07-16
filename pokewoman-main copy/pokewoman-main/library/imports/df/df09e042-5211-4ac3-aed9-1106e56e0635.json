@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "u_fd_grasslands",
+    "texture": "f850a665-d67d-44aa-83bb-dbf7c5f9edeb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      1088
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      1088
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

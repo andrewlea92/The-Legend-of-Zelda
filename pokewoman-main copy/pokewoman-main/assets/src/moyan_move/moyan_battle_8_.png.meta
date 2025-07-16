@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b350edd7-7f5d-430a-833a-438ec19cd097",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 267,
+  "height": 216,
+  "platformSettings": {},
+  "subMetas": {
+    "moyan_battle_8_": {
+      "ver": "1.0.6",
+      "uuid": "0f1a8629-d94a-4b5f-9c28-24328fe5f476",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b350edd7-7f5d-430a-833a-438ec19cd097",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 267,
+      "height": 216,
+      "rawWidth": 267,
+      "rawHeight": 216,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

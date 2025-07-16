@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WaterBurst_tex",
+    "texture": "4a2ec5a3-e80f-49f8-a8d5-7d92763dff2b",
+    "atlas": "",
+    "rect": [
+      14,
+      16,
+      479,
+      997
+    ],
+    "offset": [
+      -2.5,
+      -2.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

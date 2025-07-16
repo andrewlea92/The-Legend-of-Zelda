@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "harrkaxin",
+    "texture": "9c432318-b806-453f-84cf-b1cc790dec76",
+    "atlas": "",
+    "rect": [
+      47,
+      31,
+      118,
+      121
+    ],
+    "offset": [
+      -2.5,
+      -5
+    ],
+    "originalSize": [
+      217,
+      173
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

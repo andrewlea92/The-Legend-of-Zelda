@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "be2cc4b6-77dd-4a4d-83d5-57a9b4a47620",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1300,
+  "height": 731,
+  "platformSettings": {},
+  "subMetas": {
+    "134867522-alien-ufo-spaceship-spacecraft-in-flight-isolated-on-white-background-back-view-3d-rendering": {
+      "ver": "1.0.6",
+      "uuid": "3fa0315f-0522-4b98-8239-2d4378283ddb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "be2cc4b6-77dd-4a4d-83d5-57a9b4a47620",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1300,
+      "height": 731,
+      "rawWidth": 1300,
+      "rawHeight": 731,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

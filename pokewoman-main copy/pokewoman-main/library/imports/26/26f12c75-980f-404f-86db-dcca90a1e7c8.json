@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Swirl_1_tex",
+    "texture": "2a0298b8-e60b-4c7b-b3c9-0e1c856e00ba",
+    "atlas": "",
+    "rect": [
+      2,
+      13,
+      254,
+      221
+    ],
+    "offset": [
+      1,
+      4.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

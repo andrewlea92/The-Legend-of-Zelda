@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "libaoma",
+    "texture": "970f0792-20fc-49c7-97d1-e00bdf4f8d4a",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      234,
+      234
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      234,
+      235
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

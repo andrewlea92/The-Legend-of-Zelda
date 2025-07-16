@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Light-Wood",
+    "texture": "2bf02229-7bcf-4d93-824b-4792feb5bfd6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      275,
+      183
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      275,
+      183
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

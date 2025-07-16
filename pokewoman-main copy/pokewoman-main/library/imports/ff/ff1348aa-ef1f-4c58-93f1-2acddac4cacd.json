@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Glitter_4_tex",
+    "texture": "686dd18d-d7aa-4b33-b3cf-afb36b505e0d",
+    "atlas": "",
+    "rect": [
+      11,
+      71,
+      234,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

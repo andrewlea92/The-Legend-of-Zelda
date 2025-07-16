@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spaceship",
+    "texture": "b9a79008-15aa-4d65-a8c7-da80ab888b7d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1118,
+      602
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1118,
+      602
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

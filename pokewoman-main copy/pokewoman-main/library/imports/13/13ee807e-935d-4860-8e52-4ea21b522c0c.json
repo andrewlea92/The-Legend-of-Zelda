@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "red_dong_move10",
+    "texture": "45c7ed09-f971-4513-8f23-1be730e9d319",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      354,
+      360
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      355,
+      360
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

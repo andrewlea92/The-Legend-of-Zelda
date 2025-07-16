@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "frame_09_delay-0",
+    "texture": "8e03380b-1e05-4cbb-ac4a-2bf3d780493b",
+    "atlas": "",
+    "rect": [
+      138,
+      0,
+      200,
+      309
+    ],
+    "offset": [
+      3,
+      20.5
+    ],
+    "originalSize": [
+      470,
+      350
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

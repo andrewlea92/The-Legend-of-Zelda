@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MagicBall_tex",
+    "texture": "606719a0-4267-418b-9690-e433f32ce71d",
+    "atlas": "",
+    "rect": [
+      30,
+      30,
+      197,
+      197
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

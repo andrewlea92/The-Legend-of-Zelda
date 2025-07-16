@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "897563c4-963e-4cbe-afe2-c13f7cd916de",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 406,
+  "height": 254,
+  "platformSettings": {},
+  "subMetas": {
+    "hamolaternoxin": {
+      "ver": "1.0.6",
+      "uuid": "e114705c-13a8-4b58-aafe-5c8cbb994d6b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "897563c4-963e-4cbe-afe2-c13f7cd916de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 7,
+      "offsetY": 6,
+      "trimX": 111,
+      "trimY": 24,
+      "width": 198,
+      "height": 194,
+      "rawWidth": 406,
+      "rawHeight": 254,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

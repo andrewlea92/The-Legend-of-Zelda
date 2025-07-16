@@ -1,0 +1,50 @@
+{
+  "group-list": [
+    "bg",
+    "man",
+    "smog"
+  ],
+  "collision-matrix": [
+    [
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      true,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "3D Physics/Builtin"
+  ],
+  "preview-port": 7456,
+  "design-resolution-width": 800,
+  "design-resolution-height": 480,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "width": 960,
+    "height": 640
+  },
+  "clear-simulator-cache": true,
+  "facebook": {
+    "enable": false,
+    "appID": "",
+    "live": {
+      "enable": false
+    },
+    "audience": {
+      "enable": false
+    }
+  },
+  "start-scene": "ef0361af-07ec-490c-a37a-908dbe1cff0b"
+}

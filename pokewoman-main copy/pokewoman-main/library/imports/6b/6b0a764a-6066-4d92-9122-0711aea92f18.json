@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GroundShock_tex",
+    "texture": "653e493b-3605-4805-acb8-eb60ee728c1a",
+    "atlas": "",
+    "rect": [
+      10,
+      17,
+      241,
+      236
+    ],
+    "offset": [
+      2.5,
+      -7
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

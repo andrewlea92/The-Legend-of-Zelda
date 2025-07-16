@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "man_down",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "66647c1e-f865-4636-b001-525ed34fe840"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "911dc552-58fc-48ef-a57c-a28730ed13dd"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "ef5a83e7-2321-42e8-90e4-f8a03b33dce9"
+            }
+          },
+          {
+            "frame": 0.31666666666666665,
+            "value": {
+              "__uuid__": "66647c1e-f865-4636-b001-525ed34fe840"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "moyan_8_",
+    "texture": "1056007c-3ad7-4372-8d91-fc5ee6d6b05b",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      258,
+      228
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      259,
+      229
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

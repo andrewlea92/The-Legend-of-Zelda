@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fish",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.31666666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "adced209-6b48-4975-a3ab-e843805ca53f"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "f7d64627-b940-4286-8adf-52de9262cfcc"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "eea96be3-1964-4ad6-8b61-523e4498de37"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "adced209-6b48-4975-a3ab-e843805ca53f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

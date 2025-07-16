@@ -1,0 +1,65 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "全部檔案 (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#u_fd_desert": {
+            "scaleInDock": 1
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Andrew Lea/Desktop/friend2/pokewoman/assets/src/map3.tmx": {
+            "scale": 1,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 163,
+                "y": 149
+            }
+        },
+        "C:/Users/Andrew Lea/Desktop/friend2/pokewoman/assets/src/map3.tmx#u_fd_desert": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Andrew Lea/Desktop/friend2/pokewoman/assets/src/map3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Andrew Lea/Desktop/friend2/pokewoman/assets/src/map_defalut.tmx": {
+            "scale": 1.5827148437499998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 139.63349170111684,
+                "y": 255.88943049299695
+            }
+        },
+        "C:/Users/Andrew Lea/Desktop/friend2/pokewoman/assets/src/map_defalut.tmx#u_fd_grasslands": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Andrew Lea/Desktop/friend2/pokewoman/assets/map_tile/2D TopDown Desert Tileset - Fantasy Dreamland/Desert Fantasy Dreamland",
+    "map.height": 32,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 32,
+    "openFiles": [
+    ],
+    "project": "未命名.tiled-project",
+    "recentFiles": [
+        "C:/Users/Andrew Lea/Desktop/friend2/pokewoman/assets/src/map3.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

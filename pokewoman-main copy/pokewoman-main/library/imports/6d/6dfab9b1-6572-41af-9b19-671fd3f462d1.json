@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "moyan_battle_5_",
+    "texture": "1fb53944-0499-413c-8ce9-8c0a53704528",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      274,
+      233
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      274,
+      233
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

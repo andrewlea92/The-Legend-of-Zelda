@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Shockwave_3_tex",
+    "texture": "1f712f77-a407-4f3b-aeec-8694511a33b3",
+    "atlas": "",
+    "rect": [
+      20,
+      23,
+      488,
+      233
+    ],
+    "offset": [
+      8,
+      -11.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

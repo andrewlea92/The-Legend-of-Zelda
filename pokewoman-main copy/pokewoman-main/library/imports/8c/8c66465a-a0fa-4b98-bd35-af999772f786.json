@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Particle_3_tex",
+    "texture": "83e82d87-2527-4a47-8eb6-6fc57455ae90",
+    "atlas": "",
+    "rect": [
+      24,
+      12,
+      80,
+      81
+    ],
+    "offset": [
+      0,
+      11.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
